@@ -2,6 +2,8 @@
 🌱 I’m currently learning Full stack web development in Masai School <br><br>
 
 
+---
+[![](https://visitcount.itsvg.in/api?id=VishalDnyandeoPatil&icon=3&color=12)](https://visitcount.itsvg.in)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VishalDnyandeoPatil&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 ## 🌐 Socials:
@@ -22,7 +24,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=VishalDnyandeoPatil&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=VishalDnyandeoPatil&icon=3&color=12)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

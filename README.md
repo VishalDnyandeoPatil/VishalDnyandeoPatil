@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/99876749/204871672-98eeac12-1d33-4f4a-9aa3-c0d820b6d942.gif" alt="banner">
+
 # 💫 About Me:
 🌱 I’m currently learning Full stack web development in Masai School <br><br>
 

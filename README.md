@@ -18,11 +18,13 @@
 
 
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=VishalDnyandeoPatil&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=VishalDnyandeoPatil&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
+
 
 
 
